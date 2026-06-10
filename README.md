@@ -11,7 +11,7 @@
 `Python ⭐` `C` `C++` `Java` `JavaScript` `SQL` `HTML` `CSS`
 
 **Other**
-`Android Studio` `DSA (Python)` `YAML` `JSON`
+`DSA (Python)` `YAML` `JSON` `Android Studio`
 
 ##  Courses Completed
 
