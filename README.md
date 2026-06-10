@@ -4,8 +4,14 @@
 
 ##  Skills & Tools
 
-**Cloud & DevOps**
-`AWS` `EC2` `S3` `IAM` `VPC` `Lambda` `CloudWatch` `Docker` `Jenkins` `GitHub Actions` `Terraform` `Linux` `Bash Scripting` `Git` `Kubernetes` `CI/CD` `SSH` `AWS CLI` `Networking`
+**Cloud**
+`AWS` `EC2` `S3` `IAM` `VPC` `Lambda` `CloudWatch`
+
+**DevOps**
+`Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Terraform` `CI/CD`
+
+**Linux & Networking**
+`Linux` `Bash Scripting` `SSH` `AWS CLI` `Git` `Networking`
 
 **Languages**
 `Python ⭐` `C` `C++` `Java` `JavaScript` `SQL` `HTML` `CSS`
