@@ -8,7 +8,7 @@
 `AWS` `EC2` `S3` `IAM` `VPC` `Lambda` `CloudWatch`
 
 **DevOps**
-`Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Terraform` `CI/CD`
+`Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Terraform` `Prometheus` `Grafana` `CI/CD`
 
 **Linux & Networking**
 `Linux` `Bash Scripting` `SSH` `AWS CLI` `Git` `Networking`
