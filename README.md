@@ -1,4 +1,4 @@
-# Hi, I'm Ariba 👋
+<h2>Hi, I'm Ariba! <img src="./cat.gif" width="50"></h2>
 
 **Cloud & DevOps Engineer**  Passionate about cloud infrastructure, automation, CI/CD pipelines and Linux systems. 
 
