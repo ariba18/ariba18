@@ -1,28 +1,23 @@
 <h2>Hi, I'm Ariba! <img src="./cat.gif" width="50"></h2>
 
-**Cloud & DevOps Engineer**  Passionate about cloud infrastructure, automation, CI/CD pipelines and Linux systems. 
+Building and automating AWS infrastructure with Terraform, Docker, Kubernetes and CI/CD pipelines.
 
-##  Skills & Tools
+## Skills & Tools
 
 **Cloud**
-`AWS` `EC2` `S3` `IAM` `VPC` `Lambda` `CloudWatch`
+`AWS` `EC2` `S3` `IAM` `VPC` `ALB` `Auto Scaling` `Lambda` `API Gateway` `DynamoDB` `CloudWatch`
 
-**DevOps**
-`Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Terraform` `Prometheus` `Grafana` `CI/CD`
+**DevOps & IaC**
+`Terraform` `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Prometheus` `Grafana`
 
-**Linux & Networking**
-`Linux` `Bash Scripting` `SSH` `AWS CLI` `Git` `Networking`
+**Linux & Systems**
+`Linux` `Bash` `Git` `SSH` `Nginx`
 
 **Languages**
-`Python ⭐` `C` `C++` `Java` `JavaScript` `SQL` `HTML` `CSS`
+`Python` `SQL` `Bash`
 
-**Other**
-`DSA (Python)` `YAML` `JSON` `Android Studio`
+## Certifications
 
-##  Courses Completed
+- ☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
 
-- ☁️ AWS Cloud 
-- ⚙️ DevOps Fundamentals
-- 🐧 Linux for Cloud & DevOps
-
-*Open to Cloud Engineer · DevOps Engineer · Cloud Support roles* 
+*Open to Cloud Engineer · DevOps Engineer · Cloud Support roles*
