@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=160&section=header&text=Cloud%20%26%20DevOps&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%" />
+<img src="./banner.svg" width="100%" alt="Cloud and DevOps" />
 
 <h2>Hi, I'm Ariba! <img src="./cat.gif" width="50"></h2>
 
