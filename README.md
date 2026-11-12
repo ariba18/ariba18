@@ -1,6 +1,11 @@
 <div align="center">
 
-<h2>Hi, I'm Ariba! <img src="./cat.gif" width="50"></h2>
+<h2>
+  <span style="font-size: 28px; font-weight: 700;">
+    Hi, I'm Ariba!
+  </span>
+  <img src="./cat.gif" width="45" />
+</h2>
 
 <img src="./banner.svg" width="100%" alt="Cloud and DevOps" />
 
