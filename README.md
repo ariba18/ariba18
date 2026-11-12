@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Cloud and DevOps" />
-
 <h2>Hi, I'm Ariba! <img src="./cat.gif" width="50"></h2>
+
+<img src="./banner.svg" width="100%" alt="Cloud and DevOps" />
 
 <img src="./avatar-scene.svg" width="360" alt="Ariba's avatar with drifting clouds and twinkling sparkles" />
 
