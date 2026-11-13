@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="./greeting.svg" height="58" alt="Hi, I'm Ariba!" align="middle" /> <img src="./cat.gif" width="60" alt="" align="middle" /></h1>
+<h1><img src="./greeting.svg" height="44" alt="Hi, I'm Ariba!" align="middle" /> <img src="./cat.gif" width="48" alt="" align="middle" /></h1>
 
 <img src="./banner.svg" width="100%" alt="Cloud and DevOps" />
 
