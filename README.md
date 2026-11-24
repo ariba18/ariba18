@@ -1,7 +1,10 @@
-<!-- GREETING: replace this line with your current "Hi, I'm Ariba!" lines (the cursive image and the cat gif) -->
+<p align="center">
+  <img src="assets/greeting.svg" alt="Hi, I'm Ariba!" width="680">
+</p>
+
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Purple night sky with a cat sitting on a cloud. Cloud and DevOps, automating the boring stuff." width="100%">
+  <img src="assets/banner.svg" alt="Soft pastel banner with icons for AWS, Docker, VS Code, Kubernetes, Python, Terraform, GitHub, Git, Jenkins, Grafana, Android Studio, Firebase, Prometheus, Linux, GitHub Actions, Java, Nginx, Postman, Bash and Flask." width="100%">
 </p>
 
 <p align="center">
